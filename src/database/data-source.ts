@@ -5,7 +5,7 @@ import User from "../app/entities/Users";
 
 export const AppDataSource = new DataSource({
     type: "mysql",
-    host: "db4free.net",
+    host: "teste",
     port: 3306,
     username: "teste",
     password: "teste",
